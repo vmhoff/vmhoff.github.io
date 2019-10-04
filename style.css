@@ -1,15 +1,11 @@
-@font-face {
-  font-family: 'MyWebFont';
-  src: url('cmunsi.ttf')  format('truetype'); /* Safari, Android, iOS */
-}
-
 div {
-  height:100vm; width: 56.25vm; /* IE9 fallback */
-  width: 56.25vmin; height: 100vmin;
-  position: absolute;
-  top:0;bottom:0;
-  left:0;right:0;
-  margin: auto;
+	height:100vm; width: 56.25vm; /* IE9 fallback */
+	width: 56.25vmin; height: 100vmin;
+	position: absolute;
+	top:0;bottom:0;
+	left:0;right:0;
+	margin: auto;
+	font-size: 100%;
 }
 
 /*** FOR THE DEMO **/
@@ -29,8 +25,61 @@ div {
 	box-sizing:border-box;
 	padding:8vmin;
 }
+
+#name {
+	font-family: 'CMUSansSerifBoldDemiCondensed';
+	font-style: normal; 
+	text-align: center;
+	font-size: 1.1em;
+	color: white;
+	margin: 20% 0% 0% 0%;
+}
+#eng {
+	font-family: 'CMUSansSeriMedium';
+	font-style: normal; 
+	text-align: center;
+	font-size: 0.7em;
+	color: white;
+	margin: 5% 0% 0% 0%;
+}
+#esp {
+	font-family: 'CMUSansSerifOblique';
+	font-style: normal; 
+	text-align: center;
+	font-size: 1.0em;
+	color: white;
+	margin: 30% 0% 0% 0%;
+}
 	
 a {
 	color:#ccc;
 }
 
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 40px 10px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-whatsapp {
+  background: #25D366;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
