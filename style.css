@@ -15,7 +15,7 @@ body,html {
 }
 
 div {
-	background-image: url("fundov.jpg");	
+	background-image: url("fundov2.jpg");	
 	background-position: center; /* Center the image */
 	background-repeat: no-repeat; /* Do not repeat the image */
 	background-size: contain; /* Resize the background image to cover the entire container */
