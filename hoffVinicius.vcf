@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Hoff;Vinicius;;;
+FN:Vinicius Hoff
+TEL;TYPE=work,voice;VALUE=uri:tel:+55-51-999371-363
+EMAIL:hoffvinicius@gmail.com
+END:VCARD
