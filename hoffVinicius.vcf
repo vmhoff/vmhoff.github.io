@@ -1,7 +1,10 @@
 BEGIN:VCARD
-VERSION:4.0
-N:Hoff;Vinicius;;;
-FN:Vinicius Hoff
-TEL;TYPE=work,voice;VALUE=uri:tel:+55-51-999371-363
-EMAIL:hoffvinicius@gmail.com
+VERSION:3.0
+FN;CHARSET=UTF-8:Vinícius Maciel Hoff
+N;CHARSET=UTF-8:Hoff;Vinícius;Maciel;;
+GENDER:M
+BDAY:19890617
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:hoffvinicius@gmail.com
+TEL;TYPE=WORK,VOICE:+5551999371363
+REV:2019-10-06T21:52:03.702Z
 END:VCARD
