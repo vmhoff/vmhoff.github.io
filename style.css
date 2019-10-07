@@ -5,7 +5,9 @@ body,html {
 }
 
 #card {
-	height: 100%;
+	height:100%; width: 66.25vm; /* IE9 fallback */
+	width: 66.25vmin; height: 100%;
+	position: absolute;
 	top:0;bottom:0;
 	left:0;right:0;
 	margin: auto;
