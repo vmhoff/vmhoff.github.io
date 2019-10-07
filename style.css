@@ -12,12 +12,12 @@ div {
 	top:0;bottom:0;
 	left:0;right:0;
 	margin: auto;
-	font-size: 100%;
 	background-image: url("fundov.jpg");	
 	background-position: center; /* Center the image */
 	background-repeat: no-repeat; /* Do not repeat the image */
 	background-size: contain; /* Resize the background image to cover the entire container */
 	font-family: 'MyWebFont', sans-serif;
+	font-size:4vmin;
 	box-sizing:border-box;
 	padding:8vmin;
 }
