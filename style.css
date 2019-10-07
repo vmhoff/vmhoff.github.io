@@ -2,6 +2,7 @@ body,html {
 	margin:0;
 	background:#123752;
 	color:#fff;
+	font-size: 100%;
 }
 
 #card {
@@ -25,7 +26,7 @@ body,html {
 	text-align: center;
 	font-size: 2.5em;
 	color: blue;
-	margin: 4em 0 0 0;
+	margin: em 0 0 0;
 }
 #eng {
 	font-family: 'CMUSansSerifMedium';
@@ -34,6 +35,7 @@ body,html {
 	font-size: 2.0em;
 	color: blue;
 	margin: 0em 0 0 0;
+	padding: 0;
 }
 #esp {
 	font-family: 'CMUSansSerifOblique';
