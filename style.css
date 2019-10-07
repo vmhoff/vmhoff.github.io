@@ -15,7 +15,7 @@ body,html {
 }
 
 #card {
-	background-image: url("fundo-01.jpg");	
+	background-image: url("fundo-modelo.jpg");	
 	background-position: center; /* Center the image */
 	background-repeat: no-repeat; /* Do not repeat the image */
 	background-size: contain; /* Resize the background image to cover the entire container */
@@ -29,25 +29,25 @@ body,html {
 	font-family: 'CMUSansSerifBoldDemiCondensed';
 	font-style: normal; 
 	text-align: center;
-	font-size: 1.5em;
-	color: white;
-	margin: 1em 0% 0% 0%;
+	font-size: 1.4em;
+	color: blue;
+	margin: 2.3em 0 0 0;
 }
 #eng {
 	font-family: 'CMUSansSeriMedium';
 	font-style: normal; 
 	text-align: center;
-	font-size: 0.7em;
-	color: white;
-	margin: 0.5em 0% 0% 0%;
+	font-size: 0.87em;
+	color: blue;
+	margin: 0em 0 0 0;
 }
 #esp {
 	font-family: 'CMUSansSerifOblique';
 	font-style: normal; 
 	text-align: center;
-	font-size: 1.5em;
-	color: white;
-	margin: 1.0em 0% 0% 0%;
+	font-size: 0.9em;
+	color: blue;
+	margin: 1.0em 0 0 0;
 }
 	
 a {
@@ -61,11 +61,11 @@ a {
 
 .fa {
   padding: 0.5em;
-  font-size: 20px;
+  font-size: 10px;
   width: 1.0em;
   text-align: center;
   text-decoration: none;
-  margin: 40px 10px;
+  margin: 20px 5px;
   border-radius: 50%;
 }
 
