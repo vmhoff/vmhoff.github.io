@@ -2,7 +2,6 @@ body,html {
 	margin:0;
 	background:#123752;
 	color:#fff;
-	font-size: 3vw;
 }
 
 #card {
@@ -24,7 +23,7 @@ body,html {
 	font-family: 'CMUSansSerifDemiCondensedDemiCondensed';
 	font-style: normal; 
 	text-align: center;
-	font-size: 3.5rem;
+	font-size: 3.5em;
 	color: blue;
 	margin: 7.5% 0 0 0;
 }
