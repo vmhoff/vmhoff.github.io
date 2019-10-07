@@ -23,15 +23,15 @@ body,html {
 	font-family: 'CMUSansSerifDemiCondensedDemiCondensed';
 	font-style: normal; 
 	text-align: center;
-	font-size: 3.5em;
+	font-size: 2.5em;
 	color: blue;
-	margin: 7.5% 0 0 0;
+	margin: 10% 0 0 0;
 }
 #eng {
 	font-family: 'CMUSansSerifMedium';
 	font-style: normal; 
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 1.6em;
 	color: blue;
 	margin: 0em 0 0 0;
 }
@@ -39,7 +39,7 @@ body,html {
 	font-family: 'CMUSansSerifOblique';
 	font-style: normal; 
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 1.6em;
 	color: blue;
 	margin: 1.0em 0 0 0;
 }
