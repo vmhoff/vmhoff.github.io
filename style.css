@@ -17,16 +17,16 @@ body,html {
 	background-size: contain; /* Resize the background image to cover the entire container */
 	box-sizing:border-box;
 	padding:8vmin;
-	font-size: 100%;
+	font-size: 12px;
 }
 
 #name {
 	font-family: 'CMUSansSerifDemiCondensedDemiCondensed';
 	font-style: normal; 
 	text-align: center;
-	font-size: 2.5em;
+	font-size: 300%;
 	color: blue;
-	margin: em 0 0 0;
+	margin: 20% 0 0 0;
 }
 #eng {
 	font-family: 'CMUSansSerifMedium';
