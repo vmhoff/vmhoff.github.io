@@ -1,7 +1,3 @@
-#card {
-}
-
-/*** FOR THE DEMO **/
 body,html {
 	margin:0;
 	background:#123752;
@@ -28,7 +24,7 @@ body,html {
 	font-family: 'CMUSansSerifDemiCondensedDemiCondensed';
 	font-style: normal; 
 	text-align: center;
-	font-size: 2.5em;
+	font-size: 300%;
 	color: blue;
 	margin: 7.5% 0 0 0;
 }
