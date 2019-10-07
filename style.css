@@ -26,15 +26,15 @@ body,html {
 }
 
 #name {
-	font-family: 'CMUSansSerifBoldDemiCondensed';
+	font-family: 'CMUSansSerifDemiCondensedDemiCondensed';
 	font-style: normal; 
 	text-align: center;
-	font-size: 1.4em;
+	font-size: 1.45em;
 	color: blue;
-	margin: 2.3em 0 0 0;
+	margin: 7.5% 0 0 0;
 }
 #eng {
-	font-family: 'CMUSansSeriMedium';
+	font-family: 'CMUSansSerifMedium';
 	font-style: normal; 
 	text-align: center;
 	font-size: 0.87em;
