@@ -4,7 +4,6 @@
 	top:0;bottom:0;
 	left:0;right:0;
 	margin: auto;
-	font-size: 100%;
 }
 
 /*** FOR THE DEMO **/
@@ -12,6 +11,7 @@ body,html {
 	margin:0;
 	background:#123752;
 	color:#fff;
+	font-size: 100%;
 }
 
 #card {
@@ -29,9 +29,9 @@ body,html {
 	font-family: 'CMUSansSerifDemiCondensedDemiCondensed';
 	font-style: normal; 
 	text-align: center;
-	font-size: 3.2vw;
+	font-size: 1.45em;
 	color: blue;
-	margin: 6vw 0 0 0;
+	margin: 7.5% 0 0 0;
 }
 #eng {
 	font-family: 'CMUSansSerifMedium';
