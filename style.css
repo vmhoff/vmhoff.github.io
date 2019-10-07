@@ -1,9 +1,4 @@
 #card {
-	width: 100%;
-	position: absolute;
-	top:0;bottom:0;
-	left:0;right:0;
-	margin: auto;
 }
 
 /*** FOR THE DEMO **/
@@ -14,14 +9,18 @@ body,html {
 }
 
 #card {
+	width: 100%;
+	position: absolute;
+	top:0;bottom:0;
+	left:0;right:0;
+	margin: auto;
 	background-image: url("fundo-modelo.jpg");	
 	background-position: center; /* Center the image */
 	background-repeat: no-repeat; /* Do not repeat the image */
 	background-size: contain; /* Resize the background image to cover the entire container */
-	font-family: 'MyWebFont', sans-serif;
-	font-size: 100%;	
 	box-sizing:border-box;
 	padding:8vmin;
+	font-size: 100%;
 }
 
 #name {
