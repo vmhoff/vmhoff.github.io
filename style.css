@@ -1,13 +1,3 @@
-div {
-	height:100vm; width: 56.25vm; /* IE9 fallback */
-	width: 56.25vmin; height: 100vmin;
-	position: absolute;
-	top:0;bottom:0;
-	left:0;right:0;
-	margin: auto;
-	font-size: 100%;
-}
-
 /*** FOR THE DEMO **/
 body,html {
 	margin:0;
@@ -16,6 +6,13 @@ body,html {
 }
 
 div {
+	height:100vm; width: 56.25vm; /* IE9 fallback */
+	width: 56.25vmin; height: 100vmin;
+	position: absolute;
+	top:0;bottom:0;
+	left:0;right:0;
+	margin: auto;
+	font-size: 100%;
 	background-image: url("fundov.jpg");	
 	background-position: center; /* Center the image */
 	background-repeat: no-repeat; /* Do not repeat the image */
