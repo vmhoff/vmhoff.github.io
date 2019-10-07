@@ -4,7 +4,7 @@ body,html {
 	color:#fff;
 }
 
-.card {
+#card {
 	height: 100%;
 	position: absolute;
 	top:0;bottom:0;
@@ -45,7 +45,7 @@ body,html {
 	margin: 1.0em 0% 0% 0%;
 }
 	
-a {
+#a {
 	color:#ccc;
 }
 
