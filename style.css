@@ -6,6 +6,7 @@ body,html {
 
 #card {
 	height:100%;
+	width: 100%;
 	position: absolute;
 	top:0;bottom:0;
 	left:0;right:0;
@@ -25,7 +26,7 @@ body,html {
 	font-style: normal; 
 	text-align: center;
 	font-size: 1.1em;
-	color: green;
+	color: blue;
 	margin: 20% 0% 0% 0%;
 }
 #eng {
