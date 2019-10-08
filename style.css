@@ -5,8 +5,7 @@ body,html {
 }
 
 #card {
-	height:100vm; width: 56.25vm; /* IE9 fallback */
-	width: 56.25vmin; height: 100vmin;
+	height:100%;
 	position: absolute;
 	top:0;bottom:0;
 	left:0;right:0;
@@ -26,7 +25,7 @@ body,html {
 	font-style: normal; 
 	text-align: center;
 	font-size: 1.1em;
-	color: blue;
+	color: green;
 	margin: 20% 0% 0% 0%;
 }
 #eng {
